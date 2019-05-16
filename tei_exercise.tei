@@ -4,13 +4,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>{enter title}</title>
+        <title>The Roman Poets of the Augustan Age: Virgil</title>
         <author>
           <name reg="Sellar, William Young">W. Y. Sellar</name>
         </author>
       </titleStmt>
       <publicationStmt>
-        <publisher>{enter title}</publisher>
+        <publisher>{publisher}</publisher>
         <date value="2010-10-29">October 29, 2010</date>
       </publicationStmt>
       <sourceDesc>
